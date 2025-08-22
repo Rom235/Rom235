@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Rom. I'm a 34 year-old web developer student
+- 👋 Hi, my name is Rom. I'm a 35 year-old web developer student
 - 👀 I’m interested in web development, accessibility
 - 🌱 I’m currently learning how to create a Website
 - 💞️ I’m looking to collaborate on the subject of accessibility over the internet
